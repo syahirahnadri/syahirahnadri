@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syahirahnadri
 - 👀 I’m interested in anything related to data and front-end development.
 - 🌱 I’m currently learning web development tools.
-- 🔧 Tools: Wordpress Oxygen & Elementor, React, HTML/CSS
+- 🔧 Tools: Wordpress Oxygen & Elementor, HTML/CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me; via 💌 syerahnadri@gmail.com / 🐦 syrhndri
 - 😄 Pronouns: syerah
